@@ -1,4 +1,4 @@
-project "GLFW"
+project "GLFW" fdsdafdadas
 	kind "StaticLib"
 	language "C"
 
