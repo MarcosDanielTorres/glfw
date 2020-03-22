@@ -48,4 +48,4 @@ project "GLFW"
 	filter "configurations:Release"
 		runtime "Release"
 		optimize "on"
-xd
+xddsadass
